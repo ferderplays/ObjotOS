@@ -1,0 +1,24 @@
+{
+  "name": "objotos",
+  "version": "1.0.0",
+  "description": "OS",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^20.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferderplays/ObjotOS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferderplays/ObjotOS/issues"
+  },
+  "homepage": "https://github.com/ferderplays/ObjotOS#readme"
+}
